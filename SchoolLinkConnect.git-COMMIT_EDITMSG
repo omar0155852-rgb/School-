@@ -1,0 +1,9 @@
+Update signup page to remove activation code from display
+
+Remove hardcoded activation code '3200' from the signup form's helper text, updating it to instruct users to contact the developer for the code.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: c36a7d61-8034-4653-a1e6-699feff1c53d
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 62fdd60a-8e1a-40cd-82a3-c4bafe67b6ab
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/070d5472-78f5-4bbf-a0de-4103f67b68ae/c36a7d61-8034-4653-a1e6-699feff1c53d/VRPi3yN
